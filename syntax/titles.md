@@ -2,7 +2,6 @@
 
 Lorsque l'on commence à rédiger un document markdown, nous avons besoin d'ajouter un titre et des sous-titres
 
-Markdown supports two styles of headers, Setext and atx.
 Le langage markdown support deux styles de titre, Setext et atx.
 
 Les titres de type Setext sont "soulignés" avec des signes égal (pour le premier niveau de titre) et des tirets (pour le second niveau de titre. Par exemple:
